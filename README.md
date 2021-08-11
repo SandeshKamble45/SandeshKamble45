@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandesh Kamble
-- 👀 I’m interested in Software Development, Web Development
-- 🌱 I’m currently Pursuing Bacherlors of Engineering!
+- 👀 Interested in Software Development, Web Development
+- 🌱 Currently Pursuing Bacherlors of Engineering!
 - ✨ Learn, Create, Grow !
 
 
